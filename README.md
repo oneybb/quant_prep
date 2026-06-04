@@ -18,3 +18,11 @@ This question asks you to simulate a simple HFT market-making engine that sends/
 
 **Focus:**
 Order state machines, event-driven processing, latency, queue position, cancel/replace risk, stale quotes, maker fills, inventory limits, and HFT-style performance metrics.
+
+
+## 3. Market Making Quote Optimization
+** Summary:**
+You are given historical quote attempts, market features, fills, and future mid-price moves. Your task is to estimate fill probability, adverse selection, expected quote value, and choose optimal bid/ask quote distances under inventory risk.
+
+**Focus:**
+Market-making math, fill probability, adverse selection, expected value, volatility, inventory skew, spread capture, statistical grouping, and quote selection.
